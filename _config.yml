@@ -2,7 +2,8 @@
 title: Nivalis Designs
 email: info@nivalisdesigns.com
 tagline: Your small business resource to help you with your shopify implementation, ecommerce operations, and digital marketing.
-description: 
+description:
+image: /img/header.jpg
 baseurl: / # the subpath of your site, e.g. /blog/
 url: https://nivalisdesigns.com # the base hostname & protocol for your site
 
