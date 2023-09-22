@@ -1,10 +1,10 @@
 # Site settings
-title: Campbell eCommerce Consulting
-email: ce.campbell100@gmail.com
+title: Nivalis Designs
+email: info@nivalisdesigns.com
+tagline: Your small business resource to help you with your shopify implementation, ecommerce operations, and digital marketing.
 description: 
-> # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: / # the subpath of your site, e.g. /blog/
+url: https://nivalisdesigns.com # the base hostname & protocol for your site
 
 twitter_username:
 github_username:
